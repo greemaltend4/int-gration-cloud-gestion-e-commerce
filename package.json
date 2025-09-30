@@ -1,7 +1,7 @@
 {
   "name": "integration-cloud-gestion-e-commerce",
   "version": "1.0.0",
-  "description": "Application for integrated management of e-commerce systems",
+  "description": "Application for integrated management of e-commerce platforms and services",
   "main": "index.js",
   "scripts": {
     "start": "node server/index.js",
